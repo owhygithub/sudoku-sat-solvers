@@ -1,0 +1,6 @@
+Results for Solver: CDCL
+  solver: []
+Results for Solver: DPLL
+  solver: []
+Results for Solver: JW
+  solver: []

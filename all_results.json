@@ -1,0 +1,6902 @@
+{
+    "output_cnfs/4x4_1.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "1"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0015628337860107422
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_10.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "10"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012350082397460938
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_100.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "100"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001291036605834961
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_11.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "11"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001280069351196289
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_12.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "12"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001184225082397461
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_13.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "13"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013549327850341797
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_14.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "14"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012662410736083984
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_15.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "15"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012018680572509766
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_16.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "16"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013148784637451172
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_17.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "17"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0031609535217285156
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_18.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "18"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012671947479248047
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_19.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "19"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.003278017044067383
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_2.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "2"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0022361278533935547
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_20.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "20"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0011661052703857422
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_21.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "21"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001425027847290039
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_22.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "22"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012199878692626953
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_23.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "23"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.003078937530517578
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_24.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "24"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012340545654296875
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_25.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "25"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0015559196472167969
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_26.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "26"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012900829315185547
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_27.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "27"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001374959945678711
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_28.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "28"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.003565073013305664
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_29.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "29"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001239776611328125
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_3.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "3"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013959407806396484
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_30.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "30"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0010497570037841797
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_31.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "31"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012269020080566406
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_32.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "32"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001338958740234375
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_33.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "33"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.003278017044067383
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_34.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "34"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001300811767578125
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_35.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "35"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012738704681396484
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_36.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "36"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012903213500976562
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_37.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "37"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013391971588134766
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_38.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "38"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012569427490234375
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_39.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "39"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012826919555664062
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_4.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "4"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0011582374572753906
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_40.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "40"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013089179992675781
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_41.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "41"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0032656192779541016
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_42.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "42"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012888908386230469
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_43.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "43"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012421607971191406
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_44.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "44"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013248920440673828
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_45.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "45"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001238107681274414
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_46.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "46"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013539791107177734
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_47.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "47"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012559890747070312
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_48.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "48"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0030388832092285156
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_49.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "49"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001260995864868164
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_5.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "5"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001249074935913086
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_50.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "50"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012810230255126953
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_51.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "51"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0010769367218017578
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_52.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "52"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012950897216796875
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_53.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "53"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012989044189453125
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_54.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "54"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0010802745819091797
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_55.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "55"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013310909271240234
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_56.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "56"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012760162353515625
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_57.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "57"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012960433959960938
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_58.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "58"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012238025665283203
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_59.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "59"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001355886459350586
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_6.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "6"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012350082397460938
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_60.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "60"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012531280517578125
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_61.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "61"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012998580932617188
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_62.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "62"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013477802276611328
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_63.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "63"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.003255128860473633
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_64.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "64"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012097358703613281
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_65.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "65"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.003453969955444336
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_66.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "66"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0014431476593017578
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_67.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "67"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001322031021118164
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_68.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "68"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012652873992919922
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_69.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "69"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0011279582977294922
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_7.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "7"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013051033020019531
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_70.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "70"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001234292984008789
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_71.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "71"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001210927963256836
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_72.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "72"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012972354888916016
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_73.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "73"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012652873992919922
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_74.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "74"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0011928081512451172
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_75.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "75"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0014951229095458984
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_76.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "76"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012638568878173828
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_77.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "77"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012538433074951172
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_78.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "78"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012941360473632812
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_79.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "79"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013523101806640625
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_8.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "8"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0011751651763916016
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_80.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "80"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013110637664794922
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_81.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "81"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.003258943557739258
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_82.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "82"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0010418891906738281
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_83.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "83"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001302957534790039
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_84.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "84"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001196146011352539
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_85.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "85"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012960433959960938
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_86.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "86"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013401508331298828
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_87.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "87"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001277923583984375
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_88.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "88"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0013020038604736328
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_89.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "89"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0014371871948242188
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_9.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "9"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012369155883789062
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_90.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "90"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012538433074951172
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_91.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "91"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0030851364135742188
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_92.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "92"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012629032135009766
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_93.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "93"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012710094451904297
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_94.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "94"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012698173522949219
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_95.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "95"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012400150299072266
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_96.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "96"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001641988754272461
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_97.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "97"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.001294851303100586
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_98.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "98"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0033648014068603516
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/4x4_99.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "4x4"
+        ],
+        "sudoku_number": [
+            "99"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.0012547969818115234
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_1.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "1"
+        ],
+        "evaluations": [
+            31498
+        ],
+        "backtracks": [
+            47237
+        ],
+        "time_taken": [
+            72.39207816123962
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_10.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "10"
+        ],
+        "evaluations": [
+            2163
+        ],
+        "backtracks": [
+            3231
+        ],
+        "time_taken": [
+            4.945806980133057
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_100.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "100"
+        ],
+        "evaluations": [
+            36895
+        ],
+        "backtracks": [
+            55281
+        ],
+        "time_taken": [
+            95.9154760837555
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_11.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "11"
+        ],
+        "evaluations": [
+            23438
+        ],
+        "backtracks": [
+            35122
+        ],
+        "time_taken": [
+            63.404820919036865
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_12.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "12"
+        ],
+        "evaluations": [
+            2140
+        ],
+        "backtracks": [
+            3185
+        ],
+        "time_taken": [
+            5.117538928985596
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_13.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "13"
+        ],
+        "evaluations": [
+            538
+        ],
+        "backtracks": [
+            772
+        ],
+        "time_taken": [
+            1.400818109512329
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_14.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "14"
+        ],
+        "evaluations": [
+            35472
+        ],
+        "backtracks": [
+            53182
+        ],
+        "time_taken": [
+            86.37727212905884
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_15.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "15"
+        ],
+        "evaluations": [
+            467
+        ],
+        "backtracks": [
+            667
+        ],
+        "time_taken": [
+            1.2530691623687744
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_16.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "16"
+        ],
+        "evaluations": [
+            1260
+        ],
+        "backtracks": [
+            1871
+        ],
+        "time_taken": [
+            2.8529279232025146
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_17.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "17"
+        ],
+        "evaluations": [
+            1280
+        ],
+        "backtracks": [
+            1880
+        ],
+        "time_taken": [
+            2.7755589485168457
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_18.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "18"
+        ],
+        "evaluations": [
+            310
+        ],
+        "backtracks": [
+            447
+        ],
+        "time_taken": [
+            1.1690151691436768
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_19.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "19"
+        ],
+        "evaluations": [
+            6214
+        ],
+        "backtracks": [
+            9304
+        ],
+        "time_taken": [
+            15.232438087463379
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_2.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "2"
+        ],
+        "evaluations": [
+            6214
+        ],
+        "backtracks": [
+            9304
+        ],
+        "time_taken": [
+            15.232438087463379
+        ],
+        "status": [
+            "UNSATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_20.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "20"
+        ],
+        "evaluations": [
+            443
+        ],
+        "backtracks": [
+            642
+        ],
+        "time_taken": [
+            1.35825514793396
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_21.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "21"
+        ],
+        "evaluations": [
+            3051
+        ],
+        "backtracks": [
+            4558
+        ],
+        "time_taken": [
+            8.226180076599121
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_22.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "22"
+        ],
+        "evaluations": [
+            1212
+        ],
+        "backtracks": [
+            1796
+        ],
+        "time_taken": [
+            2.8438708782196045
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_23.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "23"
+        ],
+        "evaluations": [
+            25085
+        ],
+        "backtracks": [
+            37597
+        ],
+        "time_taken": [
+            68.75322794914246
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_24.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "24"
+        ],
+        "evaluations": [
+            3871
+        ],
+        "backtracks": [
+            5763
+        ],
+        "time_taken": [
+            7.612890005111694
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_25.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "25"
+        ],
+        "evaluations": [
+            24563
+        ],
+        "backtracks": [
+            36806
+        ],
+        "time_taken": [
+            62.83541393280029
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_26.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "26"
+        ],
+        "evaluations": [
+            10354
+        ],
+        "backtracks": [
+            15511
+        ],
+        "time_taken": [
+            22.92427396774292
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_27.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "27"
+        ],
+        "evaluations": [
+            6821
+        ],
+        "backtracks": [
+            10194
+        ],
+        "time_taken": [
+            17.32574701309204
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_28.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "28"
+        ],
+        "evaluations": [
+            467
+        ],
+        "backtracks": [
+            688
+        ],
+        "time_taken": [
+            1.1785218715667725
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_29.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "29"
+        ],
+        "evaluations": [
+            2419
+        ],
+        "backtracks": [
+            3584
+        ],
+        "time_taken": [
+            5.058969259262085
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_3.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "3"
+        ],
+        "evaluations": [
+            2419
+        ],
+        "backtracks": [
+            3584
+        ],
+        "time_taken": [
+            5.058969259262085
+        ],
+        "status": [
+            "UNSATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_30.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "30"
+        ],
+        "evaluations": [
+            13009
+        ],
+        "backtracks": [
+            19487
+        ],
+        "time_taken": [
+            34.19132995605469
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_31.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "31"
+        ],
+        "evaluations": [
+            9470
+        ],
+        "backtracks": [
+            14172
+        ],
+        "time_taken": [
+            20.88274097442627
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_32.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "32"
+        ],
+        "evaluations": [
+            910
+        ],
+        "backtracks": [
+            1341
+        ],
+        "time_taken": [
+            2.2593181133270264
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_33.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "33"
+        ],
+        "evaluations": [
+            3474
+        ],
+        "backtracks": [
+            5188
+        ],
+        "time_taken": [
+            8.066212892532349
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_34.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "34"
+        ],
+        "evaluations": [
+            1594
+        ],
+        "backtracks": [
+            2362
+        ],
+        "time_taken": [
+            4.532853126525879
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_35.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "35"
+        ],
+        "evaluations": [
+            20101
+        ],
+        "backtracks": [
+            30128
+        ],
+        "time_taken": [
+            53.53818702697754
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_36.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "36"
+        ],
+        "evaluations": [
+            1520
+        ],
+        "backtracks": [
+            2256
+        ],
+        "time_taken": [
+            4.657840728759766
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_37.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "37"
+        ],
+        "evaluations": [
+            5245
+        ],
+        "backtracks": [
+            7839
+        ],
+        "time_taken": [
+            13.941222190856934
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_38.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "38"
+        ],
+        "evaluations": [
+            3125
+        ],
+        "backtracks": [
+            4635
+        ],
+        "time_taken": [
+            6.470583915710449
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_39.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "39"
+        ],
+        "evaluations": [
+            557
+        ],
+        "backtracks": [
+            794
+        ],
+        "time_taken": [
+            1.4355030059814453
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_4.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "4"
+        ],
+        "evaluations": [
+            3589
+        ],
+        "backtracks": [
+            5328
+        ],
+        "time_taken": [
+            8.6394362449646
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_40.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "40"
+        ],
+        "evaluations": [
+            8445
+        ],
+        "backtracks": [
+            12657
+        ],
+        "time_taken": [
+            21.970026969909668
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_41.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "41"
+        ],
+        "evaluations": [
+            4831
+        ],
+        "backtracks": [
+            7213
+        ],
+        "time_taken": [
+            13.886263132095337
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_42.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "42"
+        ],
+        "evaluations": [
+            1307
+        ],
+        "backtracks": [
+            1943
+        ],
+        "time_taken": [
+            3.0580947399139404
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_43.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "43"
+        ],
+        "evaluations": [
+            29578
+        ],
+        "backtracks": [
+            44339
+        ],
+        "time_taken": [
+            72.43106365203857
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_44.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "44"
+        ],
+        "evaluations": [
+            929
+        ],
+        "backtracks": [
+            1352
+        ],
+        "time_taken": [
+            2.2119810581207275
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_45.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "45"
+        ],
+        "evaluations": [
+            1603
+        ],
+        "backtracks": [
+            2377
+        ],
+        "time_taken": [
+            3.2959108352661133
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_46.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "46"
+        ],
+        "evaluations": [
+            121
+        ],
+        "backtracks": [
+            167
+        ],
+        "time_taken": [
+            0.5477690696716309
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_47.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "47"
+        ],
+        "evaluations": [
+            743
+        ],
+        "backtracks": [
+            1091
+        ],
+        "time_taken": [
+            1.8691248893737793
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_48.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "48"
+        ],
+        "evaluations": [
+            4348
+        ],
+        "backtracks": [
+            6509
+        ],
+        "time_taken": [
+            11.390668869018555
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_49.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "49"
+        ],
+        "evaluations": [
+            3245
+        ],
+        "backtracks": [
+            4827
+        ],
+        "time_taken": [
+            8.00594186782837
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_5.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "5"
+        ],
+        "evaluations": [
+            10023
+        ],
+        "backtracks": [
+            15003
+        ],
+        "time_taken": [
+            22.424068689346313
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_50.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "50"
+        ],
+        "evaluations": [
+            3536
+        ],
+        "backtracks": [
+            5293
+        ],
+        "time_taken": [
+            8.213988304138184
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_51.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "51"
+        ],
+        "evaluations": [
+            873
+        ],
+        "backtracks": [
+            1283
+        ],
+        "time_taken": [
+            2.0740609169006348
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_52.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "52"
+        ],
+        "evaluations": [
+            908
+        ],
+        "backtracks": [
+            1339
+        ],
+        "time_taken": [
+            2.717836856842041
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_53.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "53"
+        ],
+        "evaluations": [
+            3483
+        ],
+        "backtracks": [
+            5176
+        ],
+        "time_taken": [
+            8.753220796585083
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_54.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "54"
+        ],
+        "evaluations": [
+            535
+        ],
+        "backtracks": [
+            767
+        ],
+        "time_taken": [
+            1.950948715209961
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_55.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "55"
+        ],
+        "evaluations": [
+            3125
+        ],
+        "backtracks": [
+            4635
+        ],
+        "time_taken": [
+            6.499356746673584
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_56.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "56"
+        ],
+        "evaluations": [
+            3125
+        ],
+        "backtracks": [
+            4635
+        ],
+        "time_taken": [
+            6.499356746673584
+        ],
+        "status": [
+            "UNSATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_57.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "57"
+        ],
+        "evaluations": [
+            2916
+        ],
+        "backtracks": [
+            4324
+        ],
+        "time_taken": [
+            6.698230028152466
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_58.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "58"
+        ],
+        "evaluations": [
+            4587
+        ],
+        "backtracks": [
+            6869
+        ],
+        "time_taken": [
+            11.912254810333252
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_59.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "59"
+        ],
+        "evaluations": [
+            29958
+        ],
+        "backtracks": [
+            44901
+        ],
+        "time_taken": [
+            79.09362983703613
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_6.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "6"
+        ],
+        "evaluations": [
+            3129
+        ],
+        "backtracks": [
+            4660
+        ],
+        "time_taken": [
+            7.5343639850616455
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_60.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "60"
+        ],
+        "evaluations": [
+            916
+        ],
+        "backtracks": [
+            1357
+        ],
+        "time_taken": [
+            1.7962281703948975
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_61.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "61"
+        ],
+        "evaluations": [
+            4103
+        ],
+        "backtracks": [
+            6122
+        ],
+        "time_taken": [
+            10.732240915298462
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_62.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "62"
+        ],
+        "evaluations": [
+            524
+        ],
+        "backtracks": [
+            761
+        ],
+        "time_taken": [
+            1.492265224456787
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_63.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "63"
+        ],
+        "evaluations": [
+            1109
+        ],
+        "backtracks": [
+            1639
+        ],
+        "time_taken": [
+            2.7557411193847656
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_64.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "64"
+        ],
+        "evaluations": [
+            83
+        ],
+        "backtracks": [
+            113
+        ],
+        "time_taken": [
+            0.4842960834503174
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_65.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "65"
+        ],
+        "evaluations": [
+            3523
+        ],
+        "backtracks": [
+            5260
+        ],
+        "time_taken": [
+            8.853683948516846
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_66.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "66"
+        ],
+        "evaluations": [
+            20554
+        ],
+        "backtracks": [
+            30785
+        ],
+        "time_taken": [
+            54.54344201087952
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_67.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "67"
+        ],
+        "evaluations": [
+            4005
+        ],
+        "backtracks": [
+            5993
+        ],
+        "time_taken": [
+            10.069756984710693
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_68.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "68"
+        ],
+        "evaluations": [
+            113
+        ],
+        "backtracks": [
+            148
+        ],
+        "time_taken": [
+            0.47701573371887207
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_69.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "69"
+        ],
+        "evaluations": [
+            5875
+        ],
+        "backtracks": [
+            8780
+        ],
+        "time_taken": [
+            15.676913976669312
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_7.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "7"
+        ],
+        "evaluations": [
+            10
+        ],
+        "backtracks": [
+            8
+        ],
+        "time_taken": [
+            0.34462738037109375
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_70.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "70"
+        ],
+        "evaluations": [
+            96
+        ],
+        "backtracks": [
+            123
+        ],
+        "time_taken": [
+            0.5306522846221924
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_71.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "71"
+        ],
+        "evaluations": [
+            7413
+        ],
+        "backtracks": [
+            11109
+        ],
+        "time_taken": [
+            19.728374004364014
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_72.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "72"
+        ],
+        "evaluations": [
+            261
+        ],
+        "backtracks": [
+            372
+        ],
+        "time_taken": [
+            0.8350448608398438
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_73.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "73"
+        ],
+        "evaluations": [
+            593
+        ],
+        "backtracks": [
+            871
+        ],
+        "time_taken": [
+            1.8522908687591553
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_74.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "74"
+        ],
+        "evaluations": [
+            10504
+        ],
+        "backtracks": [
+            15711
+        ],
+        "time_taken": [
+            24.54924702644348
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_75.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "75"
+        ],
+        "evaluations": [
+            10899
+        ],
+        "backtracks": [
+            16323
+        ],
+        "time_taken": [
+            25.11982226371765
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_76.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "76"
+        ],
+        "evaluations": [
+            908
+        ],
+        "backtracks": [
+            1321
+        ],
+        "time_taken": [
+            1.8448429107666016
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_77.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "77"
+        ],
+        "evaluations": [
+            6378
+        ],
+        "backtracks": [
+            9539
+        ],
+        "time_taken": [
+            16.257002115249634
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_78.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "78"
+        ],
+        "evaluations": [
+            9144
+        ],
+        "backtracks": [
+            13680
+        ],
+        "time_taken": [
+            18.988803148269653
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_79.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "79"
+        ],
+        "evaluations": [
+            935
+        ],
+        "backtracks": [
+            1383
+        ],
+        "time_taken": [
+            3.0100390911102295
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_8.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "8"
+        ],
+        "evaluations": [
+            12
+        ],
+        "backtracks": [
+            10
+        ],
+        "time_taken": [
+            0.35056424140930176
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_80.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "80"
+        ],
+        "evaluations": [
+            17
+        ],
+        "backtracks": [
+            14
+        ],
+        "time_taken": [
+            0.3723330497741699
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_81.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "81"
+        ],
+        "evaluations": [
+            3268
+        ],
+        "backtracks": [
+            4880
+        ],
+        "time_taken": [
+            8.345277070999146
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_82.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "82"
+        ],
+        "evaluations": [
+            3487
+        ],
+        "backtracks": [
+            5204
+        ],
+        "time_taken": [
+            7.940752983093262
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_83.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "83"
+        ],
+        "evaluations": [
+            219
+        ],
+        "backtracks": [
+            293
+        ],
+        "time_taken": [
+            0.9261331558227539
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_84.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "84"
+        ],
+        "evaluations": [
+            664
+        ],
+        "backtracks": [
+            981
+        ],
+        "time_taken": [
+            1.7127931118011475
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_85.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "85"
+        ],
+        "evaluations": [
+            574
+        ],
+        "backtracks": [
+            836
+        ],
+        "time_taken": [
+            1.3665249347686768
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_86.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "86"
+        ],
+        "evaluations": [
+            1425
+        ],
+        "backtracks": [
+            2110
+        ],
+        "time_taken": [
+            3.044027090072632
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_87.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "87"
+        ],
+        "evaluations": [
+            1272
+        ],
+        "backtracks": [
+            1876
+        ],
+        "time_taken": [
+            2.4061410427093506
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_88.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "88"
+        ],
+        "evaluations": [
+            507
+        ],
+        "backtracks": [
+            745
+        ],
+        "time_taken": [
+            1.2720799446105957
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_89.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "89"
+        ],
+        "evaluations": [
+            4651
+        ],
+        "backtracks": [
+            6946
+        ],
+        "time_taken": [
+            10.182892084121704
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_9.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "9"
+        ],
+        "evaluations": [
+            3376
+        ],
+        "backtracks": [
+            5038
+        ],
+        "time_taken": [
+            7.006449222564697
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_90.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "90"
+        ],
+        "evaluations": [
+            207
+        ],
+        "backtracks": [
+            281
+        ],
+        "time_taken": [
+            0.7903339862823486
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_91.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "91"
+        ],
+        "evaluations": [
+            752
+        ],
+        "backtracks": [
+            1111
+        ],
+        "time_taken": [
+            2.0122368335723877
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_92.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "92"
+        ],
+        "evaluations": [
+            2563
+        ],
+        "backtracks": [
+            3816
+        ],
+        "time_taken": [
+            6.0432868003845215
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_93.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "93"
+        ],
+        "evaluations": [
+            979
+        ],
+        "backtracks": [
+            1434
+        ],
+        "time_taken": [
+            2.375662088394165
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_94.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "94"
+        ],
+        "evaluations": [
+            1055
+        ],
+        "backtracks": [
+            1530
+        ],
+        "time_taken": [
+            2.909090995788574
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_95.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "95"
+        ],
+        "evaluations": [
+            905
+        ],
+        "backtracks": [
+            1340
+        ],
+        "time_taken": [
+            3.098106861114502
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_96.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "96"
+        ],
+        "evaluations": [
+            490
+        ],
+        "backtracks": [
+            729
+        ],
+        "time_taken": [
+            1.454606056213379
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_97.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "97"
+        ],
+        "evaluations": [
+            316
+        ],
+        "backtracks": [
+            446
+        ],
+        "time_taken": [
+            0.9232547283172607
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_98.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "98"
+        ],
+        "evaluations": [
+            4628
+        ],
+        "backtracks": [
+            6907
+        ],
+        "time_taken": [
+            11.566324234008789
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9-hard_99.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9-hard"
+        ],
+        "sudoku_number": [
+            "99"
+        ],
+        "evaluations": [
+            105
+        ],
+        "backtracks": [
+            143
+        ],
+        "time_taken": [
+            0.5572531223297119
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_1.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "1"
+        ],
+        "evaluations": [
+            12
+        ],
+        "backtracks": [
+            10
+        ],
+        "time_taken": [
+            0.30043697357177734
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_10.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "10"
+        ],
+        "evaluations": [
+            112
+        ],
+        "backtracks": [
+            148
+        ],
+        "time_taken": [
+            0.5543179512023926
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_100.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "100"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30521440505981445
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_11.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "11"
+        ],
+        "evaluations": [
+            139
+        ],
+        "backtracks": [
+            194
+        ],
+        "time_taken": [
+            0.5317728519439697
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_12.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "12"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.2981700897216797
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_13.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "13"
+        ],
+        "evaluations": [
+            36
+        ],
+        "backtracks": [
+            34
+        ],
+        "time_taken": [
+            0.3433561325073242
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_14.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "14"
+        ],
+        "evaluations": [
+            32
+        ],
+        "backtracks": [
+            30
+        ],
+        "time_taken": [
+            0.35444116592407227
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_15.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "15"
+        ],
+        "evaluations": [
+            23
+        ],
+        "backtracks": [
+            22
+        ],
+        "time_taken": [
+            0.323897123336792
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_16.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "16"
+        ],
+        "evaluations": [
+            76
+        ],
+        "backtracks": [
+            94
+        ],
+        "time_taken": [
+            0.4436359405517578
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_17.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "17"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3050508499145508
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_18.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "18"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30430006980895996
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_19.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "19"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3003709316253662
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_2.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "2"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3004121780395508
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_20.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "20"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3047161102294922
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_21.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "21"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.2994565963745117
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_22.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "22"
+        ],
+        "evaluations": [
+            10
+        ],
+        "backtracks": [
+            8
+        ],
+        "time_taken": [
+            0.32118892669677734
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_23.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "23"
+        ],
+        "evaluations": [
+            195
+        ],
+        "backtracks": [
+            258
+        ],
+        "time_taken": [
+            0.6614179611206055
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_24.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "24"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.31055188179016113
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_25.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "25"
+        ],
+        "evaluations": [
+            11
+        ],
+        "backtracks": [
+            10
+        ],
+        "time_taken": [
+            0.3135039806365967
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_26.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "26"
+        ],
+        "evaluations": [
+            15
+        ],
+        "backtracks": [
+            12
+        ],
+        "time_taken": [
+            0.32739830017089844
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_27.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "27"
+        ],
+        "evaluations": [
+            22
+        ],
+        "backtracks": [
+            20
+        ],
+        "time_taken": [
+            0.3269078731536865
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_28.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "28"
+        ],
+        "evaluations": [
+            4242
+        ],
+        "backtracks": [
+            6320
+        ],
+        "time_taken": [
+            10.94003415107727
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_29.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "29"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30352210998535156
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_3.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "3"
+        ],
+        "evaluations": [
+            228
+        ],
+        "backtracks": [
+            308
+        ],
+        "time_taken": [
+            0.7156820297241211
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_30.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "30"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30980992317199707
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_31.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "31"
+        ],
+        "evaluations": [
+            18
+        ],
+        "backtracks": [
+            16
+        ],
+        "time_taken": [
+            0.3273160457611084
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_32.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "32"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30701112747192383
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_33.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "33"
+        ],
+        "evaluations": [
+            14
+        ],
+        "backtracks": [
+            12
+        ],
+        "time_taken": [
+            0.3194999694824219
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_34.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "34"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.31217384338378906
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_35.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "35"
+        ],
+        "evaluations": [
+            168
+        ],
+        "backtracks": [
+            247
+        ],
+        "time_taken": [
+            0.7089579105377197
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_36.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "36"
+        ],
+        "evaluations": [
+            2660
+        ],
+        "backtracks": [
+            3964
+        ],
+        "time_taken": [
+            6.974248886108398
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_37.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "37"
+        ],
+        "evaluations": [
+            10
+        ],
+        "backtracks": [
+            8
+        ],
+        "time_taken": [
+            0.3043677806854248
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_38.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "38"
+        ],
+        "evaluations": [
+            60
+        ],
+        "backtracks": [
+            80
+        ],
+        "time_taken": [
+            0.3757016658782959
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_39.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "39"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.31281089782714844
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_4.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "4"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3015413284301758
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_40.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "40"
+        ],
+        "evaluations": [
+            4
+        ],
+        "backtracks": [
+            2
+        ],
+        "time_taken": [
+            0.30649805068969727
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_41.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "41"
+        ],
+        "evaluations": [
+            4826
+        ],
+        "backtracks": [
+            7210
+        ],
+        "time_taken": [
+            11.360472917556763
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_42.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "42"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30672693252563477
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_43.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "43"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3030850887298584
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_44.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "44"
+        ],
+        "evaluations": [
+            24
+        ],
+        "backtracks": [
+            22
+        ],
+        "time_taken": [
+            0.3483257293701172
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_45.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "45"
+        ],
+        "evaluations": [
+            135
+        ],
+        "backtracks": [
+            174
+        ],
+        "time_taken": [
+            0.5348601341247559
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_46.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "46"
+        ],
+        "evaluations": [
+            47
+        ],
+        "backtracks": [
+            44
+        ],
+        "time_taken": [
+            0.4161190986633301
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_47.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "47"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3002049922943115
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_48.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "48"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3006913661956787
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_49.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "49"
+        ],
+        "evaluations": [
+            13
+        ],
+        "backtracks": [
+            10
+        ],
+        "time_taken": [
+            0.3570380210876465
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_5.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "5"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3021202087402344
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_50.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "50"
+        ],
+        "evaluations": [
+            124
+        ],
+        "backtracks": [
+            167
+        ],
+        "time_taken": [
+            0.5372810363769531
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_51.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "51"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30472707748413086
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_52.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "52"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.2996540069580078
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_53.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "53"
+        ],
+        "evaluations": [
+            8
+        ],
+        "backtracks": [
+            6
+        ],
+        "time_taken": [
+            0.3163180351257324
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_54.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "54"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.2941930294036865
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_55.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "55"
+        ],
+        "evaluations": [
+            120
+        ],
+        "backtracks": [
+            162
+        ],
+        "time_taken": [
+            0.5767810344696045
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_56.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "56"
+        ],
+        "evaluations": [
+            387
+        ],
+        "backtracks": [
+            562
+        ],
+        "time_taken": [
+            1.0007648468017578
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_57.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "57"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.29800891876220703
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_58.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "58"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.31152892112731934
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_59.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "59"
+        ],
+        "evaluations": [
+            516
+        ],
+        "backtracks": [
+            738
+        ],
+        "time_taken": [
+            1.5664710998535156
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_6.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "6"
+        ],
+        "evaluations": [
+            46
+        ],
+        "backtracks": [
+            56
+        ],
+        "time_taken": [
+            0.42505693435668945
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_60.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "60"
+        ],
+        "evaluations": [
+            636
+        ],
+        "backtracks": [
+            933
+        ],
+        "time_taken": [
+            1.8353149890899658
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_61.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "61"
+        ],
+        "evaluations": [
+            153
+        ],
+        "backtracks": [
+            222
+        ],
+        "time_taken": [
+            0.6912519931793213
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_62.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "62"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3071589469909668
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_63.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "63"
+        ],
+        "evaluations": [
+            32
+        ],
+        "backtracks": [
+            30
+        ],
+        "time_taken": [
+            0.32881617546081543
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_64.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "64"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30359911918640137
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_65.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "65"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30721092224121094
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_66.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "66"
+        ],
+        "evaluations": [
+            27
+        ],
+        "backtracks": [
+            24
+        ],
+        "time_taken": [
+            0.3853628635406494
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_67.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "67"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3102140426635742
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_68.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "68"
+        ],
+        "evaluations": [
+            255
+        ],
+        "backtracks": [
+            359
+        ],
+        "time_taken": [
+            0.7282571792602539
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_69.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "69"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3167400360107422
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_7.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "7"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.29807305335998535
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_70.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "70"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.300753116607666
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_71.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "71"
+        ],
+        "evaluations": [
+            3677
+        ],
+        "backtracks": [
+            5479
+        ],
+        "time_taken": [
+            11.925379037857056
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_72.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "72"
+        ],
+        "evaluations": [
+            141
+        ],
+        "backtracks": [
+            179
+        ],
+        "time_taken": [
+            0.509721040725708
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_73.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "73"
+        ],
+        "evaluations": [
+            106
+        ],
+        "backtracks": [
+            135
+        ],
+        "time_taken": [
+            0.46593594551086426
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_74.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "74"
+        ],
+        "evaluations": [
+            202
+        ],
+        "backtracks": [
+            284
+        ],
+        "time_taken": [
+            0.6556122303009033
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_75.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "75"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3076930046081543
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_76.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "76"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30328822135925293
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_77.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "77"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3087918758392334
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_78.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "78"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.31281304359436035
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_79.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "79"
+        ],
+        "evaluations": [
+            88
+        ],
+        "backtracks": [
+            119
+        ],
+        "time_taken": [
+            0.4643070697784424
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_8.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "8"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.309567928314209
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_80.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "80"
+        ],
+        "evaluations": [
+            38
+        ],
+        "backtracks": [
+            36
+        ],
+        "time_taken": [
+            0.3429229259490967
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_81.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "81"
+        ],
+        "evaluations": [
+            171
+        ],
+        "backtracks": [
+            229
+        ],
+        "time_taken": [
+            0.8635718822479248
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_82.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "82"
+        ],
+        "evaluations": [
+            272
+        ],
+        "backtracks": [
+            397
+        ],
+        "time_taken": [
+            0.8092150688171387
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_83.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "83"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3000960350036621
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_84.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "84"
+        ],
+        "evaluations": [
+            321
+        ],
+        "backtracks": [
+            447
+        ],
+        "time_taken": [
+            0.8688561916351318
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_85.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "85"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3083467483520508
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_86.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "86"
+        ],
+        "evaluations": [
+            12
+        ],
+        "backtracks": [
+            10
+        ],
+        "time_taken": [
+            0.32846903800964355
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_87.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "87"
+        ],
+        "evaluations": [
+            2
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.3126108646392822
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_88.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "88"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.2997148036956787
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_89.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "89"
+        ],
+        "evaluations": [
+            18
+        ],
+        "backtracks": [
+            16
+        ],
+        "time_taken": [
+            0.32253003120422363
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_9.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "9"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.301832914352417
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_90.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "90"
+        ],
+        "evaluations": [
+            50
+        ],
+        "backtracks": [
+            48
+        ],
+        "time_taken": [
+            0.3704979419708252
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_91.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "91"
+        ],
+        "evaluations": [
+            102
+        ],
+        "backtracks": [
+            132
+        ],
+        "time_taken": [
+            0.44382810592651367
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_92.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "92"
+        ],
+        "evaluations": [
+            18
+        ],
+        "backtracks": [
+            16
+        ],
+        "time_taken": [
+            0.35160398483276367
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_93.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "93"
+        ],
+        "evaluations": [
+            204
+        ],
+        "backtracks": [
+            293
+        ],
+        "time_taken": [
+            0.8210151195526123
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_94.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "94"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.30233025550842285
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_95.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "95"
+        ],
+        "evaluations": [
+            1
+        ],
+        "backtracks": [
+            0
+        ],
+        "time_taken": [
+            0.31270313262939453
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_96.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "96"
+        ],
+        "evaluations": [
+            22
+        ],
+        "backtracks": [
+            18
+        ],
+        "time_taken": [
+            0.33099794387817383
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_97.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "97"
+        ],
+        "evaluations": [
+            34
+        ],
+        "backtracks": [
+            32
+        ],
+        "time_taken": [
+            0.3302590847015381
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_98.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "98"
+        ],
+        "evaluations": [
+            78
+        ],
+        "backtracks": [
+            93
+        ],
+        "time_taken": [
+            0.44750523567199707
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    },
+    "output_cnfs/9x9_99.cnf": {
+        "solver": [
+            "JW"
+        ],
+        "grid_size": [
+            "9x9"
+        ],
+        "sudoku_number": [
+            "99"
+        ],
+        "evaluations": [
+            30
+        ],
+        "backtracks": [
+            28
+        ],
+        "time_taken": [
+            0.39510488510131836
+        ],
+        "status": [
+            "SATISFIABLE"
+        ]
+    }
+}
